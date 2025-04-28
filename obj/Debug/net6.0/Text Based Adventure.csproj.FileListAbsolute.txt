@@ -1,0 +1,36 @@
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.exe
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.deps.json
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.runtimeconfig.json
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.dll
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.pdb
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.AssemblyInfoInputs.cache
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.AssemblyInfo.cs
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.csproj.CoreCompileInputs.cache
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.dll
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\refint\Text Based Adventure.dll
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.pdb
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.genruntimeconfig.cache
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\ref\Text Based Adventure.dll
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.csproj.AssemblyReference.cache
+C:\Users\myff3\source\repos\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Bas.BDBCE932.Up2Date
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.csproj.AssemblyReference.cache
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.AssemblyInfoInputs.cache
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.AssemblyInfo.cs
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.csproj.CoreCompileInputs.cache
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.dll
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\refint\Text Based Adventure.dll
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.pdb
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.exe
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.deps.json
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.runtimeconfig.json
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.dll
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\Text Based Adventure.pdb
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Bas.BDBCE932.Up2Date
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\Text Based Adventure.genruntimeconfig.cache
+C:\Users\myff3\source\repos\C# Projects\Text Based Adventure\Text Based Adventure\obj\Debug\net6.0\ref\Text Based Adventure.dll
